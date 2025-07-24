@@ -1,0 +1,11 @@
+{
+  "name": "novel-api",
+  "version": "1.0.0",
+  "main": "api/fetch.js",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
